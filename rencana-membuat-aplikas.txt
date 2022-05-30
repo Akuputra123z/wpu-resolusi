@@ -3,4 +3,5 @@ membuat aplikasi e-commerc
 -membuat tampilan tengah 
 -membuat tampilan akhit
 membuat aplikasi mobile
+-membuat tampilan menu
 
