@@ -1,8 +1,10 @@
 membuat aplikasi e-commerc
 -membuat tampilan awal
-*membuat css
+*menggunakan html
+*menggunakan css
 -membuat tampilan tengah 
-*membuat html
+*menggunakan html
+*menggunakan css
 -membuat tampilan akhit
 membuat aplikasi mobile
 -membuat tampilan menu
